@@ -2,7 +2,7 @@
 # Hi, I'm RJ! 👋 
 Especializándome en Ciberseguridad, Análisis SOC, OWASP y Gestión de vulnerabilidades.
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uthJimenez309&theme=radical" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uthJimenez309&theme=highcontrast)](https://git.io/streak-stats)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
