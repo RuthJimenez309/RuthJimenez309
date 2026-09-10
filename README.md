@@ -1,6 +1,6 @@
 
 # Hi! 👋 
-Apasionada por la Ciberseguridad y el Análisis SOC. Construyendo soluciones seguras y mitigando riesgos bajo el estándar OWASP.
+Apasionada por la Ciberseguridad en constante formación, Análisis SOC, mitigación de fallos OWASP y Gestión de vulnerabilidades a través de laboratorios prácticos.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuthJimenez309&theme=highcontrast)](https://git.io/streak-stats)
 
