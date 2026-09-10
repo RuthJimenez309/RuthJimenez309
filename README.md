@@ -1,6 +1,6 @@
 
-# Hi, I'm RJ! 👋 
-Especializándome en Ciberseguridad, Análisis SOC, OWASP y Gestión de vulnerabilidades.
+# Hi! 👋 
+Apasionada por la Ciberseguridad y el Análisis SOC. Construyendo soluciones seguras y mitigando riesgos bajo el estándar OWASP.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuthJimenez309&theme=highcontrast)](https://git.io/streak-stats)
 
