@@ -1,6 +1,6 @@
 
 # Hi! 👋 
-Apasionada por la Ciberseguridad en constante formación, Análisis SOC, mitigación de fallos OWASP y Gestión de vulnerabilidades a través de laboratorios prácticos.
+Apasionada por la ciberseguridad en constante formación. Enfocada en aprender informática forense, análisis de registros y respuesta a incidentes a través de laboratorios prácticos.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuthJimenez309&theme=highcontrast)](https://git.io/streak-stats)
 
